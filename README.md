@@ -12,3 +12,5 @@ Ziad A Aly / 202000056
 Coventry University - The Knowledge Hub Universities Branch - Bsc of Ethical Hacking and Cybersecurity - Level 4 - KH4062CEM Skills Development 1 - Coursework
 
 Welcome to our Keylogger System - This is our application on designing an effective keylogger spyware, camoflagged as a Sticky-Note program, which records the user's activity, stores it into files, compresses file into a ZIP file folder, and sends the ZIP folder in an email. 😎
+
+It is recommended to test this program on a virtual machine with the firewall disabled.
